@@ -1,0 +1,16 @@
+{
+  "name": "svdemo",
+  "version": "1.0.0",
+  "description": "An application to mock services.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "author": "vijaychowthri Nagaprakasham",
+  "license": "MIT",
+  "dependencies": {
+    "mountebank": "^2.5.0",
+    "node-fetch": "2.6.1"
+  }
+}

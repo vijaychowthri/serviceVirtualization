@@ -1,0 +1,11 @@
+{"level":"info","message":"[mb:5000] mountebank v2.5.0 now taking orders - point your browser to http://localhost:5000/ for help","timestamp":"2021-10-28T03:39:10.677Z"}
+{"level":"info","message":"[mb:5000] POST /imposters","timestamp":"2021-10-28T03:39:10.696Z"}
+{"level":"info","message":"[http:8181] Open for business...","timestamp":"2021-10-28T03:39:10.721Z"}
+{"level":"info","message":"[mb:5000] POST /imposters","timestamp":"2021-10-28T03:39:10.726Z"}
+{"level":"info","message":"[http:9282] Open for business...","timestamp":"2021-10-28T03:39:10.729Z"}
+{"level":"info","message":"[mb:5000] POST /imposters","timestamp":"2021-10-28T03:39:10.732Z"}
+{"level":"info","message":"[http:3001] Open for business...","timestamp":"2021-10-28T03:39:10.738Z"}
+{"level":"info","message":"[http:3001] ::1:63532 => GET /emp","timestamp":"2021-10-28T03:39:17.070Z"}
+{"level":"info","message":"[http:3001] no predicate match, using default response","timestamp":"2021-10-28T03:39:17.077Z"}
+{"level":"info","message":"[http:3001] ::1:63538 => GET /emp/1","timestamp":"2021-10-28T03:39:21.716Z"}
+{"level":"info","message":"[http:3001] no predicate match, using default response","timestamp":"2021-10-28T03:39:21.717Z"}
