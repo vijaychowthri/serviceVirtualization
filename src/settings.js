@@ -3,5 +3,6 @@ module.exports = {
     customer_service_port: 8181,
     demo: 9282,
     pred: 3001,
-    emp:3002
+    emp:3002,
+    pool:3003
 }
